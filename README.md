@@ -6,7 +6,7 @@ A PyTorch implementation of [Style Tokens: Unsupervised Style Modeling, Control 
 
 ## Dataset
 
-[Blizzard 2013](http://www.cstr.ed.ac.uk/projects/blizzard/).
+BZNSYP. 
 
 ## Dependency
 
