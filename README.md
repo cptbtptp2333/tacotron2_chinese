@@ -17,7 +17,6 @@ BZNSYP.
 ### Data Pre-processing
 Extract dataset and generate features:
 ```bash
-$ python extract.py
 $ python pre_process.py
 ```
 
